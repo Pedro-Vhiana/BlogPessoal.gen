@@ -2,6 +2,7 @@ package com.generation.blogpessoal.gen.repository;
 
 import java.util.Optional;
 
+
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.generation.blogpessoal.gen.model.Usuario;
